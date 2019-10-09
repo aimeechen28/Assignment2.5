@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Question6
+comment0.text=Write\ the\ method\ displayBox\ that\ has\ two\ in\ parameters,\ width\ and\ height.\ The\nmethod\ will\ print\ out\ a\ box\ made\ of\ '$'\ characters\ to\ the\ terminal\ that\ is\ \nas\ wide\ and\ high\ as\nthe\ arguments\ passed\ to\ it.\ For\ example,\ displayBox(6,3)\ would\ print\ this\ \noutput\ to\ the\nterminal\:\n$$$$$$\n$$$$$$\n$$$$$$\n
+comment1.params=width\ height
+comment1.target=void\ displayBox(int,\ int)
+numComments=2
